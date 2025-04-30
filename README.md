@@ -12,6 +12,7 @@ This repository contains:
 
 - **`AI_Asn3.pptx`**  
   PowerPoint slides summarizing the algorithms, evaluation function, and performance comparison.
+  https://docs.google.com/presentation/d/1mTXO4u6qXLw7UTjc7x-EzhEk64uQLQpdwpBdoohpyiM/edit?usp=sharing
 
 ## Requirements
 
